@@ -7,7 +7,7 @@ This tool is designed to perform Optical Character Recognition (OCR) on .pdf, .j
 ## Features
 
 - **PDF Text Extraction**: Extract text content from files.
-- **Searchable Content**: Convert scanned or image-based PDFs into searchable text.
+- **Searchable Content**: Convert scanned documents or image-based files into searchable text.
 - **File Conversion**: Converts files to .txt for easy of editing or further processing. 
 
 ## Installation
